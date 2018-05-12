@@ -1,0 +1,37 @@
+_repo: The-Expositor-s-BibleThe-Book-of-Isaiah-Volume-II_43672
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43672-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Smith, George Adam
+    birthdate: 1856
+    deathdate: 1942
+    gutenberg_agent_id: '5016'
+    url: http://www.gutenberg.org/2009/agents/5016
+    wikipedia: http://en.wikipedia.org/wiki/George_Adam_Smith
+  editor:
+    agent_name: Nicoll, W. Robertson (William Robertson), Sir
+    aliases:
+    - Nicoll, William Robertson, Sir
+    - Clear, Claudius
+    - Wace, Walter E.
+    birthdate: 1851
+    deathdate: 1923
+    gutenberg_agent_id: '36133'
+    url: http://www.gutenberg.org/2009/agents/36133
+description: ''
+gutenberg_issued: '2013-09-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43672'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BS'
+- !lcsh 'Bible. Isaiah -- Commentaries'
+title: 'The Expositor''s Bible: The Book of Isaiah, Volume 2 (of 2)'
+url: http://www.gutenberg.org/ebooks/43672

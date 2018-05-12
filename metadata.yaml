@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '36133'
     url: http://www.gutenberg.org/2009/agents/36133
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43672#The-Expositor-s-BibleThe-Book-of-Isaiah-Volume-II
 gutenberg_issued: '2013-09-08'
 gutenberg_type: Text
 identifiers:
